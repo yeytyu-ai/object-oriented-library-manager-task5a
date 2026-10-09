@@ -1,0 +1,7 @@
+book_id,title,author,category,year,status
+101,The Pragmatic Programmer,Andrew Hunt,Software,1999,available
+102,Clean Code,Robert Martin,Software,2008,available
+103,Introduction to Algorithms,Thomas Cormen,Computer Science,2022,available
+104,The Design of Everyday Things,Don Norman,Design,2013,borrowed
+105,Deep Work,Cal Newport,Productivity,2016,available
+106,Computer Networks,Andrew Tanenbaum,Networking,2021,available
